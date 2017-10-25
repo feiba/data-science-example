@@ -1,0 +1,466 @@
+4. feature X253 (0.026794)
+5. feature X252 (0.022037)
+6. feature X254 (0.014576)
+7. feature X96 (0.004834)
+8. feature X186 (0.004082)
+9. feature X146 (0.002834)
+10. feature X68 (0.002273)
+11. feature X228 (0.002212)
+12. feature X276_red (0.002032)
+13. feature X215 (0.002010)
+14. feature X8 (0.001861)
+15. feature X103 (0.001802)
+16. feature X140 (0.001712)
+17. feature X184 (0.001634)
+18. feature X213 (0.001621)
+19. feature X3 (0.001536)
+20. feature X192 (0.001534)
+start train test
+randomforest:132.10207187677068
+lm:158.75554954321493
+ridge:158.77414243098255
+nn:270.59184498654224
+svm:269.5571961520908
+ensemble:169.967033943347
+Xscale:False
+Yscale:False
+retrain:False
+featureSelection:True
+load data
+Encode categorical data
+Feature ranking:
+1. feature X276_blue (0.398218)
+2. feature X255 (0.199774)
+3. feature X251 (0.139413)
+4. feature X253 (0.028410)
+5. feature X252 (0.019786)
+6. feature X254 (0.012908)
+7. feature X96 (0.004561)
+8. feature X186 (0.002415)
+9. feature X228 (0.001941)
+10. feature X131 (0.001880)
+11. feature X183 (0.001824)
+12. feature X249 (0.001800)
+13. feature X146 (0.001784)
+14. feature X79 (0.001628)
+15. feature X42 (0.001569)
+16. feature X215 (0.001567)
+17. feature X75 (0.001551)
+18. feature X140 (0.001532)
+19. feature X155 (0.001468)
+20. feature X207 (0.001397)
+start train test
+randomforest:131.62522064374815
+lm:157.6661248041804
+ridge:157.62581352843648
+nn:267.2320791470469
+svm:269.5782589089115
+ensemble:169.0725765018733
+Xscale:True
+Yscale:True
+retrain:True
+featureSelection:True
+load data
+Encode categorical data
+Feature ranking:
+1. feature X276_blue (0.405003)
+2. feature X255 (0.196883)
+3. feature X251 (0.133464)
+4. feature X253 (0.025844)
+5. feature X252 (0.020283)
+6. feature X254 (0.013960)
+7. feature X96 (0.004530)
+8. feature X186 (0.002920)
+9. feature X3 (0.002569)
+10. feature X149 (0.002231)
+11. feature X146 (0.002177)
+12. feature X70 (0.001980)
+13. feature X54 (0.001906)
+14. feature X79 (0.001848)
+15. feature X42 (0.001825)
+16. feature X8 (0.001814)
+17. feature X184 (0.001810)
+18. feature X132 (0.001693)
+19. feature X133 (0.001645)
+20. feature X276_red (0.001588)
+start train test
+randomforest:139.8015650839144
+lm:159.28625761685532
+ridge:158.9901828340057
+nn:168.41988905768628
+svm:153.60385716156927
+ensemble:144.851014040564
+Xscale:True
+Yscale:False
+retrain:True
+featureSelection:True
+load data
+Encode categorical data
+Feature ranking:
+1. feature X276_blue (0.400355)
+2. feature X255 (0.198104)
+3. feature X251 (0.136077)
+4. feature X253 (0.029362)
+5. feature X252 (0.021626)
+6. feature X254 (0.015027)
+7. feature X96 (0.003385)
+8. feature X184 (0.002857)
+9. feature X186 (0.002389)
+10. feature X79 (0.002087)
+11. feature X3 (0.001600)
+12. feature X46 (0.001567)
+13. feature X155 (0.001536)
+14. feature X113 (0.001535)
+15. feature X207 (0.001500)
+16. feature X240 (0.001474)
+17. feature X169 (0.001460)
+18. feature X64 (0.001453)
+19. feature X276_red (0.001449)
+20. feature X229 (0.001427)
+start train test
+randomforest:138.82945122368378
+lm:158.84748872106843
+ridge:158.622136563378
+nn:134.40776291864427
+svm:150.22234048785805
+ensemble:135.37960987618837
+Xscale:False
+Yscale:True
+retrain:True
+featureSelection:True
+load data
+Encode categorical data
+Feature ranking:
+1. feature X276_blue (0.402308)
+2. feature X255 (0.193390)
+3. feature X251 (0.138255)
+4. feature X253 (0.028041)
+5. feature X252 (0.020701)
+6. feature X254 (0.014946)
+7. feature X186 (0.003162)
+8. feature X96 (0.002861)
+9. feature X8 (0.002041)
+10. feature X3 (0.001974)
+11. feature X183 (0.001966)
+12. feature X146 (0.001914)
+13. feature X155 (0.001871)
+14. feature X223 (0.001653)
+15. feature X276_red (0.001619)
+16. feature X103 (0.001608)
+17. feature X55 (0.001591)
+18. feature X136 (0.001547)
+19. feature X228 (0.001537)
+20. feature X162 (0.001498)
+start train test
+randomforest:136.71129437534438
+lm:158.24419468984095
+ridge:158.27012179600348
+nn:269.56530264252336
+svm:269.5571961520908
+ensemble:169.52505053285145
+Xscale:False
+Yscale:False
+retrain:True
+featureSelection:True
+load data
+Encode categorical data
+Feature ranking:
+1. feature X276_blue (0.405283)
+2. feature X255 (0.191805)
+3. feature X251 (0.135606)
+4. feature X253 (0.030535)
+5. feature X252 (0.021041)
+6. feature X254 (0.012648)
+7. feature X96 (0.005584)
+8. feature X186 (0.004546)
+9. feature X276_red (0.002403)
+10. feature X214 (0.002124)
+11. feature X136 (0.001911)
+12. feature X249 (0.001674)
+13. feature X140 (0.001669)
+14. feature X110 (0.001664)
+15. feature X162 (0.001646)
+16. feature X228 (0.001500)
+17. feature X153 (0.001498)
+18. feature X46 (0.001491)
+19. feature X3 (0.001434)
+20. feature X245 (0.001428)
+start train test
+randomforest:138.20020064087612
+lm:159.1872149913594
+ridge:159.21587815745053
+nn:272.0121842369989
+svm:269.5782589089115
+ensemble:170.00385058552857
+Xscale:True
+Yscale:True
+retrain:False
+featureSelection:False
+load data
+Encode categorical data
+Feature ranking:
+1. feature X276_blue (0.403894)
+2. feature X255 (0.193976)
+3. feature X251 (0.137013)
+4. feature X253 (0.027836)
+5. feature X252 (0.019902)
+6. feature X254 (0.013318)
+7. feature X96 (0.004721)
+8. feature X186 (0.004007)
+9. feature X276_red (0.002349)
+10. feature X184 (0.002340)
+11. feature X213 (0.002224)
+12. feature X155 (0.002063)
+13. feature X46 (0.002016)
+14. feature X3 (0.001899)
+15. feature X183 (0.001816)
+16. feature X140 (0.001756)
+17. feature X228 (0.001566)
+18. feature X133 (0.001492)
+19. feature X29 (0.001394)
+20. feature X70 (0.001390)
+start train test
+randomforest:134.61777682275564
+lm:200.58390616001606
+ridge:172.99118570557778
+nn:198.36652380294234
+svm:264.504694742385
+ensemble:164.96359654318883
+Xscale:True
+Yscale:False
+retrain:False
+featureSelection:False
+load data
+Encode categorical data
+Feature ranking:
+1. feature X276_blue (0.402207)
+2. feature X255 (0.194717)
+3. feature X251 (0.134234)
+4. feature X253 (0.029017)
+5. feature X252 (0.020051)
+6. feature X254 (0.015992)
+7. feature X186 (0.003552)
+8. feature X96 (0.003183)
+9. feature X213 (0.002401)
+10. feature X146 (0.002291)
+11. feature X133 (0.001764)
+12. feature X3 (0.001721)
+13. feature X276_red (0.001705)
+14. feature X54 (0.001625)
+15. feature X149 (0.001608)
+16. feature X4 (0.001518)
+17. feature X207 (0.001490)
+18. feature X183 (0.001489)
+19. feature X241 (0.001471)
+20. feature X56 (0.001458)
+start train test
+randomforest:134.26458643080812
+lm:199.67980824661018
+ridge:172.99118570557775
+nn:179.95950192276163
+svm:264.07758445574706
+ensemble:160.35767709312324
+Xscale:False
+Yscale:True
+retrain:False
+featureSelection:False
+load data
+Encode categorical data
+Feature ranking:
+1. feature X276_blue (0.405220)
+2. feature X255 (0.192472)
+3. feature X251 (0.135155)
+4. feature X253 (0.028778)
+5. feature X252 (0.019672)
+6. feature X254 (0.015098)
+7. feature X96 (0.004075)
+8. feature X186 (0.002439)
+9. feature X79 (0.002404)
+10. feature X54 (0.002043)
+11. feature X228 (0.001761)
+12. feature X215 (0.001755)
+13. feature X162 (0.001624)
+14. feature X214 (0.001623)
+15. feature X240 (0.001616)
+16. feature X125 (0.001606)
+17. feature X3 (0.001596)
+18. feature X146 (0.001551)
+19. feature X46 (0.001547)
+20. feature X149 (0.001539)
+start train test
+randomforest:134.73753003984848
+lm:180.6399727893287
+ridge:179.71909337648583
+nn:269.5606175608796
+svm:269.5571961520908
+ensemble:172.16554515955337
+Xscale:False
+Yscale:False
+retrain:False
+featureSelection:False
+load data
+Encode categorical data
+Feature ranking:
+1. feature X276_blue (0.403158)
+2. feature X255 (0.196108)
+3. feature X251 (0.138780)
+4. feature X253 (0.025606)
+5. feature X252 (0.019260)
+6. feature X254 (0.013690)
+7. feature X96 (0.003505)
+8. feature X186 (0.002627)
+9. feature X213 (0.002253)
+10. feature X131 (0.002166)
+11. feature X110 (0.002017)
+12. feature X229 (0.001837)
+13. feature X42 (0.001790)
+14. feature X183 (0.001737)
+15. feature X29 (0.001626)
+16. feature X103 (0.001624)
+17. feature X3 (0.001596)
+18. feature X192 (0.001595)
+19. feature X241 (0.001586)
+20. feature X146 (0.001573)
+start train test
+randomforest:134.26427566999791
+lm:180.6399727893286
+ridge:179.71909337648583
+nn:271.98649509217887
+svm:269.5782589089115
+ensemble:172.19690932062207
+Xscale:True
+Yscale:True
+retrain:True
+featureSelection:False
+load data
+Encode categorical data
+Feature ranking:
+1. feature X276_blue (0.405585)
+2. feature X255 (0.189852)
+3. feature X251 (0.137375)
+4. feature X253 (0.029920)
+5. feature X252 (0.019908)
+6. feature X254 (0.012967)
+7. feature X96 (0.005620)
+8. feature X186 (0.003283)
+9. feature X184 (0.002263)
+10. feature X213 (0.002235)
+11. feature X146 (0.002119)
+12. feature X229 (0.002017)
+13. feature X68 (0.001848)
+14. feature X214 (0.001828)
+15. feature X155 (0.001764)
+16. feature X125 (0.001761)
+17. feature X8 (0.001655)
+18. feature X3 (0.001644)
+19. feature X99 (0.001631)
+20. feature X192 (0.001614)
+start train test
+randomforest:142.2201371127851
+lm:200.58390616001606
+ridge:172.99118570557778
+nn:203.00952252444114
+svm:264.504694742385
+ensemble:164.954469317979
+Xscale:True
+Yscale:False
+retrain:True
+featureSelection:False
+load data
+Encode categorical data
+Feature ranking:
+1. feature X276_blue (0.408863)
+2. feature X255 (0.195400)
+3. feature X251 (0.131217)
+4. feature X253 (0.028714)
+5. feature X252 (0.019264)
+6. feature X254 (0.014120)
+7. feature X96 (0.004633)
+8. feature X186 (0.002244)
+9. feature X184 (0.002241)
+10. feature X207 (0.001849)
+11. feature X276_red (0.001849)
+12. feature X155 (0.001823)
+13. feature X223 (0.001758)
+14. feature X192 (0.001735)
+15. feature X70 (0.001662)
+16. feature X16 (0.001655)
+17. feature X140 (0.001646)
+18. feature X132 (0.001622)
+19. feature X79 (0.001619)
+20. feature X68 (0.001584)
+start train test
+randomforest:143.96865763679435
+lm:199.67980824661018
+ridge:172.99118570557775
+nn:176.05173067105991
+svm:264.07758445574706
+ensemble:160.03520725521108
+Xscale:False
+Yscale:True
+retrain:True
+featureSelection:False
+load data
+Encode categorical data
+Feature ranking:
+1. feature X276_blue (0.400020)
+2. feature X255 (0.195602)
+3. feature X251 (0.134563)
+4. feature X253 (0.032628)
+5. feature X252 (0.016251)
+6. feature X254 (0.015167)
+7. feature X96 (0.004496)
+8. feature X186 (0.004117)
+9. feature X3 (0.002174)
+10. feature X162 (0.002174)
+11. feature X155 (0.002122)
+12. feature X146 (0.002021)
+13. feature X223 (0.002012)
+14. feature X213 (0.001836)
+15. feature X8 (0.001781)
+16. feature X140 (0.001768)
+17. feature X183 (0.001748)
+18. feature X110 (0.001714)
+19. feature X228 (0.001657)
+20. feature X149 (0.001636)
+start train test
+randomforest:144.71122030794245
+lm:180.6399727893287
+ridge:179.71909337648583
+nn:269.7237447314475
+svm:269.5571961520908
+ensemble:172.81525960819238
+Xscale:False
+Yscale:False
+retrain:True
+featureSelection:False
+load data
+Encode categorical data
+Feature ranking:
+1. feature X276_blue (0.409318)
+2. feature X255 (0.192143)
+3. feature X251 (0.136406)
+4. feature X253 (0.027854)
+5. feature X252 (0.018844)
+6. feature X254 (0.014307)
+7. feature X96 (0.003156)
+8. feature X3 (0.002212)
+9. feature X186 (0.002148)
+10. feature X110 (0.001863)
+11. feature X79 (0.001755)
+12. feature X136 (0.001639)
+13. feature X178 (0.001572)
+14. feature X117 (0.001520)
+15. feature X146 (0.001486)
+16. feature X4 (0.001461)
+17. feature X153 (0.001451)
+18. feature X21 (0.001423)
+19. feature X80 (0.001420)
+20. feature X75 (0.001418)
+start train test
+randomforest:140.2208271551672
+lm:180.6399727893286
+ridge:179.71909337648583
+nn:269.55613970565275
+svm:269.5782589089115
+ensemble:172.13847248206912
